@@ -1,3 +1,3 @@
 # workshop-calculator
-## glo-academy worcshop 
+## glo-academy workshop 
 ### react calculator
